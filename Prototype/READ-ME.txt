@@ -1,0 +1,7 @@
+Open the Prototype folder
+Open clips_windows_executables_630
+Open CLIPSIDE
+Click File -> Load -> Assignment file
+Then Click Execution -> Run
+Afterwards, to re-run it
+Click Execution -> Reset -> Execution -> Run
